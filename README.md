@@ -7,5 +7,8 @@ This is my work on solving “How much for your Airbnb?”, an in-class Kaggle c
 ## Data Visualization
 I used ggplot2 to visualize the data. 
 
-## Random Forest
+## Final Random Forest
 In this project, I built a Random Forest model to predict the house prices. 
+
+## EDA and Learnings
+For Exploratory Data Analysis and more learnings, please read [report](http://rpubs.com/YTCAT/444778)
